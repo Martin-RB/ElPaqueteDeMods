@@ -66,6 +66,38 @@ Translocators
 Waystones
 Wawla
 
+Galacticraft Core
+Galacticraft Planets
+Galacticraft Tweaks
+Galaxy Space
+
+Galaxy Space
+-ExtraPlanets
+-More Planets
+-More Planets Extras
+Galacticraft Rich Presence
+
+Interstellar: Exoplanets
+Zollern Galaxy
+GalacticraftTweaker
+BlankPlanet
+Planet Progression
+
+Tinkers Construct
+Tionkers tool leveling
+Tinkers Complement
+Moar Tinkers
+OpenComputers Drivers for Tinkers Construct
+Tinkers' MEMES
+Tinkers' Golems Addon
+
+Subterrean waters
+Quark
+YUNG's caves
+YUNG's better mineshafts
+
+Open modular turrets
+Davincis vessel
 
 
 
@@ -77,3 +109,4 @@ Cambios:
 - Aumentar loot de:
  * Battle towers
  * Hardcore towers
+- Quitar herramientas que no son del tinkers
