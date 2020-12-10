@@ -25,3 +25,55 @@ Thermal Dynamics
 Thermal Expansion
 Thermal Foundation
 Thermal Innovation
+
+ICBM
+Energy Converters
+Future Versions
+Hwyla
+Applied Energistics 2
+
+Computercraft
+Compact solars
+Ender storage
+Inventory sorter
+Iron chests
+Journeymap
+JEI
+Netherending
+ProjectE
+Project Red Base
+Project Red Fabrication
+Project Red Integration
+Project Red Lighting
+Project Red World
+Project Red Mechanical
+Railcraft
+Wireless Redstone CBE
+Advanced Machines (IC2)
+Bibliocraft
+Biomes o Plenty
+Chicken Chunks
+Chisel
+Forestry
+FTB utilities
+More overlays
+Openblocks
+Reliquary
+Solar Flux Reborn
+Thaumcraft
+Thaumic JEI
+Translocators
+Waystones
+Wawla
+
+
+
+
+Cambios:
+- Agregar galacticoso
+- Disminuir ratio de spawn
+ * Dragones
+ * Battle towers
+- Aumentar loot de:
+ * Battle towers
+ * Hardcore towers
