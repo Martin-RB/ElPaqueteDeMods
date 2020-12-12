@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["Faithful 1.12.2-rv4.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -93,6 +93,7 @@ key_Hub Expand Key:45
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_quark.keybind.lockBuilding:37
+key_quark.keybind.toggleAutojump:48
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -118,25 +119,30 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:48
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
 key_keybind.baublesinventory:48
+key_key.davincis.up:45
+key_key.davincis.down:44
+key_key.davincis.brake:46
+key_key.davincis.align:13
+key_key.davincis.decompile:43
+key_key.davincis.shipinv:37
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_keybind.togglehelmet.name:33
 key_keybind.togglechest.name:34
 key_keybind.togglelegs.name:35
 key_keybind.toggleboots.name:36
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
 key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemout:-201
-key_pe.key.armor_toggle:45
-key_pe.key.charge:47
-key_pe.key.extra_function:46
-key_pe.key.fire_projectile:19
-key_pe.key.mode:34
+key_pe.key.armor_toggle:76
+key_pe.key.charge:71
+key_pe.key.extra_function:72
+key_pe.key.fire_projectile:73
+key_pe.key.mode:77
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_openblocks.keybind.vario_switch:47

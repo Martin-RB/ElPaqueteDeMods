@@ -10,21 +10,21 @@ Dynamic Surroundings
 Hardcore Battle Towers
 Hardcore Darkness
 Hardcore Revival
-Hunting Dimension
+Hunting Dimension **
 Ice and Fire: Dragons
 Industrial Craft
-NetherEx
+NetherEx **
 Placebo
 Pollution of the Realms
 Progressive Bosses
 Progressive Difficulty
 The Beneath
 The Midnight
-Thermal Cultivation
-Thermal Dynamics
-Thermal Expansion
-Thermal Foundation
-Thermal Innovation
+Thermal Cultivation **
+Thermal Dynamics **
+Thermal Expansion **
+Thermal Foundation **
+Thermal Innovation **
 
 ICBM
 Energy Converters
@@ -40,7 +40,7 @@ Iron chests
 Journeymap
 JEI
 Netherending
-ProjectE
+ProjectE **
 Project Red Base
 Project Red Fabrication
 Project Red Integration
@@ -58,7 +58,7 @@ Forestry
 FTB utilities
 More overlays
 Openblocks
-Reliquary
+Reliquary ***
 Solar Flux Reborn
 Thaumcraft
 Thaumic JEI
@@ -77,8 +77,8 @@ Galaxy Space
 -More Planets Extras
 Galacticraft Rich Presence
 
-Interstellar: Exoplanets
-Zollern Galaxy
+-Interstellar: Exoplanets
+-Zollern Galaxy
 GalacticraftTweaker
 BlankPlanet
 Planet Progression
@@ -88,7 +88,7 @@ Tionkers tool leveling
 Tinkers Complement
 Moar Tinkers
 OpenComputers Drivers for Tinkers Construct
-Tinkers' MEMES
+Tinkers' MEMES  **
 Tinkers' Golems Addon
 
 Subterrean waters
@@ -98,7 +98,15 @@ YUNG's better mineshafts
 
 Open modular turrets
 Davincis vessel
+Security craft
 
+
+
+Opcionales:
+ + Serene Seasons
+ + Bloodmoon
+ + Extra utilities (probar)
+ + 
 
 
 Cambios:
