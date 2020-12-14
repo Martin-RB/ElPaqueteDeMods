@@ -70,6 +70,84 @@
   "installDate": "2020-12-09T01:00:29.9398046Z",
   "installedAddons": [
     {
+      "addonID": 298965,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 3122528,
+        "displayName": "LibraryEx-1.12.2-1.2.0.jar",
+        "fileName": "LibraryEx-1.12.2-1.2.0.jar",
+        "fileDate": "2020-11-25T02:50:26.57Z",
+        "fileLength": 464866,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3122/528/LibraryEx-1.12.2-1.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4268927266,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logictechcorp",
+            "fingerprint": 2702108747,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1616147617,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2920806281,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1592437013,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3177249337,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "LibraryEx-1.12.2-1.2.0.jar"
+      },
+      "dateInstalled": "2020-12-12T20:53:30.1553401Z",
+      "dateUpdated": "2020-12-12T20:53:30.1583298Z",
+      "dateLastUpdateAttempted": "2020-12-12T20:53:30.1583298Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 64760,
       "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
       "installedFile": {
@@ -161,11 +239,259 @@
       "dateInstalled": "2020-12-12T20:26:31.419273Z",
       "dateUpdated": "2020-12-12T20:26:31.4292696Z",
       "dateLastUpdateAttempted": "2020-12-12T20:26:31.4292696Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 257244,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 2851097,
+        "displayName": "hostileworlds_invasions-1.12.1-1.1.13.jar",
+        "fileName": "hostileworlds_invasions-1.12.1-1.1.13.jar",
+        "fileDate": "2019-12-29T01:15:41.643Z",
+        "fileLength": 72420,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2851/97/hostileworlds_invasions-1.12.1-1.1.13.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 237749,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1148678058,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2010458965,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1107261243,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2201193259,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3919035988,
+        "gameVersion": [
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "hostileworlds_invasions-1.12.1-1.1.13.jar"
+      },
+      "dateInstalled": "2020-12-14T01:36:48.7657274Z",
+      "dateUpdated": "2020-12-14T01:36:48.7667231Z",
+      "dateLastUpdateAttempted": "2020-12-14T01:36:48.7667231Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 248039,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 3127695,
+        "displayName": "NetherEx-1.12.2-2.2.1.jar",
+        "fileName": "NetherEx-1.12.2-2.2.1.jar",
+        "fileDate": "2020-12-01T05:53:53.493Z",
+        "fileLength": 2644765,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge-service.overwolf.wtf/files/3127/695/NetherEx-1.12.2-2.2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 298965,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4029613228,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logictechcorp",
+            "fingerprint": 2917845107,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2347438514,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4045052698,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3815357243,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 222130730,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "NetherEx-1.12.2-2.2.1.jar"
+      },
+      "dateInstalled": "2020-12-12T20:53:30.6863325Z",
+      "dateUpdated": "2020-12-12T20:53:30.6883276Z",
+      "dateLastUpdateAttempted": "2020-12-12T20:53:30.6883276Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 237749,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 2902920,
+        "displayName": "coroutil-1.12.1-1.2.37.jar",
+        "fileName": "coroutil-1.12.1-1.2.37.jar",
+        "fileDate": "2020-03-16T06:56:08.743Z",
+        "fileLength": 2327451,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2902/920/coroutil-1.12.1-1.2.37.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2219622583,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "extendedrenderer",
+            "fingerprint": 236274499,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "CoroUtil",
+            "fingerprint": 1753519442,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "modconfig",
+            "fingerprint": 1283306330,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2729791231,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1600987289,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2316559879,
+        "gameVersion": [
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "coroutil-1.12.1-1.2.37.jar"
+      },
+      "dateInstalled": "2020-12-14T01:36:48.6431036Z",
+      "dateUpdated": "2020-12-14T01:36:48.6514078Z",
+      "dateLastUpdateAttempted": "2020-12-14T01:36:48.6514078Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -259,11 +585,90 @@
       "dateInstalled": "2020-12-12T20:52:12.53775Z",
       "dateUpdated": "2020-12-12T20:52:12.53775Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 237754,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 2663393,
+        "displayName": "zombieawareness-1.12.1-1.11.16.jar",
+        "fileName": "zombieawareness-1.12.1-1.11.16.jar",
+        "fileDate": "2019-01-22T05:33:34.963Z",
+        "fileLength": 285951,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2663/393/zombieawareness-1.12.1-1.11.16.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 237749,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3385363103,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ZombieAwareness",
+            "fingerprint": 964121659,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2410138224,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3742852680,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4139434154,
+        "gameVersion": [
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "zombieawareness-1.12.1-1.11.16.jar"
+      },
+      "dateInstalled": "2020-12-14T01:39:22.7924854Z",
+      "dateUpdated": "2020-12-14T01:39:22.7974766Z",
+      "dateLastUpdateAttempted": "2020-12-14T01:39:22.7974766Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
