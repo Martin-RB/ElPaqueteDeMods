@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-12-12T20:48:33.8568935Z",
+  "lastPlayed": "2020-12-15T20:36:09.6232568Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -69,84 +69,6 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2020-12-09T01:00:29.9398046Z",
   "installedAddons": [
-    {
-      "addonID": 298965,
-      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
-      "installedFile": {
-        "id": 3122528,
-        "displayName": "LibraryEx-1.12.2-1.2.0.jar",
-        "fileName": "LibraryEx-1.12.2-1.2.0.jar",
-        "fileDate": "2020-11-25T02:50:26.57Z",
-        "fileLength": 464866,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3122/528/LibraryEx-1.12.2-1.2.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4268927266,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logictechcorp",
-            "fingerprint": 2702108747,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1616147617,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2920806281,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1592437013,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3177249337,
-        "gameVersion": [
-          "Forge",
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "LibraryEx-1.12.2-1.2.0.jar"
-      },
-      "dateInstalled": "2020-12-12T20:53:30.1553401Z",
-      "dateUpdated": "2020-12-12T20:53:30.1583298Z",
-      "dateLastUpdateAttempted": "2020-12-12T20:53:30.1583298Z",
-      "status": 3,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
     {
       "addonID": 64760,
       "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
@@ -251,6 +173,84 @@
       "installedTargets": null
     },
     {
+      "addonID": 298965,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 3122528,
+        "displayName": "LibraryEx-1.12.2-1.2.0.jar",
+        "fileName": "LibraryEx-1.12.2-1.2.0.jar",
+        "fileDate": "2020-11-25T02:50:26.57Z",
+        "fileLength": 464866,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3122/528/LibraryEx-1.12.2-1.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4268927266,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logictechcorp",
+            "fingerprint": 2702108747,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1616147617,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2920806281,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1592437013,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3177249337,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "LibraryEx-1.12.2-1.2.0.jar"
+      },
+      "dateInstalled": "2020-12-12T20:53:30.1553401Z",
+      "dateUpdated": "2020-12-12T20:53:30.1583298Z",
+      "dateLastUpdateAttempted": "2020-12-12T20:53:30.1583298Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 257244,
       "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
       "installedFile": {
@@ -318,7 +318,7 @@
       "dateInstalled": "2020-12-14T01:36:48.7657274Z",
       "dateUpdated": "2020-12-14T01:36:48.7667231Z",
       "dateLastUpdateAttempted": "2020-12-14T01:36:48.7667231Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -327,7 +327,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 248039,
@@ -487,7 +487,7 @@
       "dateInstalled": "2020-12-14T01:36:48.6431036Z",
       "dateUpdated": "2020-12-14T01:36:48.6514078Z",
       "dateLastUpdateAttempted": "2020-12-14T01:36:48.6514078Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -496,7 +496,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 236821,
@@ -597,6 +597,102 @@
       "installedTargets": null
     },
     {
+      "addonID": 388908,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 3087441,
+        "displayName": "simpleplanes-1.12.2-3.0.1.7.jar",
+        "fileName": "simpleplanes-1.12.2-3.0.1.7.jar",
+        "fileDate": "2020-10-20T11:09:52.95Z",
+        "fileLength": 1827590,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3087/441/simpleplanes-1.12.2-3.0.1.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 634699619,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2538422160,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1426085433,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xyz",
+            "fingerprint": 3177156329,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 771197124,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "simpleplanes-1.12.2-3.0.1.7.jar"
+      },
+      "dateInstalled": "2020-12-16T17:37:27.5806365Z",
+      "dateUpdated": "2020-12-16T17:37:27.595996Z",
+      "dateLastUpdateAttempted": "2020-12-16T17:37:27.595996Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 268567,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": null,
+      "dateInstalled": "2020-12-16T17:51:35.6062003Z",
+      "dateUpdated": "2020-12-16T17:51:35.6081964Z",
+      "dateLastUpdateAttempted": "2020-12-16T17:51:35.6081964Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 237754,
       "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
       "installedFile": {
@@ -664,7 +760,7 @@
       "dateInstalled": "2020-12-14T01:39:22.7924854Z",
       "dateUpdated": "2020-12-14T01:39:22.7974766Z",
       "dateLastUpdateAttempted": "2020-12-14T01:39:22.7974766Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -673,7 +769,114 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 227873,
+      "gameInstanceID": "f3e55b81-616c-45c0-a83b-01f9e4c4ff20",
+      "installedFile": {
+        "id": 2721268,
+        "displayName": "Ruins (Structure Spawning System)",
+        "fileName": "Ruins-1.12.2.jar",
+        "fileDate": "2019-06-07T08:58:25.45Z",
+        "fileLength": 244703,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2721/268/Ruins-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 800845695,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "atomicstryker",
+            "fingerprint": 642306919,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 932551259,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "changelog.txt",
+            "fingerprint": 3594848293,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "examplesAndDocs",
+            "fingerprint": 2222074835,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3233352522,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "readme.txt",
+            "fingerprint": 2973698044,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ruins_config",
+            "fingerprint": 4203040721,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "src",
+            "fingerprint": 1812602127,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Where to put this.txt",
+            "fingerprint": 3907032120,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 4229449872,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Ruins-1.12.2.jar"
+      },
+      "dateInstalled": "2020-12-14T01:55:53.8691984Z",
+      "dateUpdated": "2020-12-14T01:55:53.8741842Z",
+      "dateLastUpdateAttempted": "2020-12-14T01:55:53.8741842Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
